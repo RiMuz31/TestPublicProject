@@ -1,3 +1,4 @@
+brew install swiftlint
 tuist generate
 xcodebuild clean -quiet
 xcodebuild build-for-testing\
